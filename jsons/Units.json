@@ -32,7 +32,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 250,
-		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence","Can construct [Customs house]","Double movement in coast"],
+		"uniques": ["Unbuildable","Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence","Can construct [Customs house]","Great Person - [Gold]","Double movement in coast"],
 	},
 	{
 		"name": "Scout",
